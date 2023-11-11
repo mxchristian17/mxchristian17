@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Christian Orengia.
 - 👀 I’m interested in every technical challenge I can get.
-- 🌱 I’m currently learning Python and React.js, but I have more that 5 years of experience coding with PHP in personal and business projects. I have experience in JavaScript, MySQL, CSS and HTML5 too. 
+- 🌱 I’m currently learning Python and React.js, but I have more than a decade of experience coding with PHP in personal and business projects. I have experience in JavaScript, MySQL, CSS and HTML5 too. 
 - 💞️ I’m looking to collaborate on challenging projects that I think can change te world for better.
 - 📫 You can mail me to orengiachristian@gmail.com for whatever you want.
